@@ -95,14 +95,9 @@ A - LINEAR TREND ESTIMATION
 
 B- POLYNOMIAL TREND ESTIMATION
 
-```pyhton
-
 ![image](https://github.com/Pavan-Gv/TSA_EXP2/assets/94827772/be595e65-1043-4cb6-a7bf-9dabedf88d4b)
 
 ![image](https://github.com/Pavan-Gv/TSA_EXP2/assets/94827772/d4d1393a-3caf-44f9-a73a-5b4edd5a4355)
-
-
-```
 
 ### RESULT:
 Thus the python program for linear and Polynomial Trend Estiamtion has been executed successfully.
