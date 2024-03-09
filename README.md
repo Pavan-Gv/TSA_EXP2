@@ -16,6 +16,10 @@ To Implement Linear and Polynomial Trend Estiamtion Using Python.
 **Step 5:** End the program
 
 ### PROGRAM:
+```
+Developed By: G Venkata Pavan Kumar
+Registration NO.: 212221240013
+```
 A - LINEAR TREND ESTIMATION
 ```python
 import pandas as pd
